@@ -1,9 +1,10 @@
 import React, {Fragment} from 'react'
+import Header from './Header'
 
 const Layout = props => {
     return(
         <Fragment>
-            <h1>Header</h1>
+            <Header/>
             <main>
                 {props.children}
             </main>
