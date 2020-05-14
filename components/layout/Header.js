@@ -13,7 +13,7 @@ const Header = ( ) => {
                     <Nav/>
                 </div>
                 <div>
-                    <p>Hello:</p><p>Name</p>
+                    <p>Hello: Name</p>
                     <button type="button">Logout</button>
                     <Link href="#">Login</Link>
                     <Link href="#">Create User</Link>
